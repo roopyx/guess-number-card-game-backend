@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CardguessApplication {
+public class CardGuessApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CardguessApplication.class, args);
+		SpringApplication.run(CardGuessApplication.class, args);
 	}
 
 }
