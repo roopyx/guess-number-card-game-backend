@@ -1,8 +1,7 @@
-package com.cardguess.repository;
+package com.cardguess.entity.CardNumber;
 
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBMapper;
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBScanExpression;
-import com.cardguess.entity.CardNumber;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

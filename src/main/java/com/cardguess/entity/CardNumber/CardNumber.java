@@ -1,4 +1,4 @@
-package com.cardguess.entity;
+package com.cardguess.entity.CardNumber;
 
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBAttribute;
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBHashKey;
